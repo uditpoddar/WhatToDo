@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">What To Do</string>
+    <string name="action_settings">Settings</string>
+    <string name="newTaskLabel">Add Task</string>
+    <string name="AddTaskButtonLabel">Add Task</string>
+    <string name="title_activity_edit_task">EditTaskActivity</string>
+    <string name="EditTaskLabel">Edit Task :</string>
+    <string name="EditTaskButtonLabel">Submit Changes</string>
+</resources>
